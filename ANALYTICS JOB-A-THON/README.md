@@ -1,3 +1,7 @@
+## ANALYTICS VIDHYA JOB-A-THON (19-11-2021 TO 21-11-2021)
+
+## PRIVATE LEADERBOARD RANK-19, SCORE-0.729
+
 # 1. Problem statement analysis
 The given problem statement has demographic data about an organization/company who is 
 facing rise in attrition. Losing employees in an organization is almost similar loosing a 
